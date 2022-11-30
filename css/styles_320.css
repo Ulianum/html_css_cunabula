@@ -1,0 +1,211 @@
+.header_buttons,
+.header .nav {
+  display: none;
+}
+
+.icon-id_burger {
+  display: block;
+  margin-left: auto;
+}
+
+.section-class_cards,
+.card-class_event,
+.card-class_course,
+.card-class_update,
+.card_main,
+.section,
+.footer,
+.footer_body,
+.footer .nav a {
+  display: block;
+}
+
+.section_body,
+.card-class_update .card_header,
+.card_sidebar,
+.card_footer, 
+.socials {
+  display: inline-flex;
+}
+
+.card_sidebar {
+  flex-flow: row;
+}
+
+.button-class_primary {
+  width: 100%;
+}
+
+.container {
+  font-size: 1rem;
+}
+
+.wrapper-id_main {
+  margin-top: 72px;
+}
+
+.section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.wrapper-id_main .section {
+  padding-top: 50px;
+  padding-bottom: 0;
+}
+
+.wrapper-id_education-system .section {
+  padding-top: 100px;
+}
+
+.wrapper-id_upcoming-events .section {
+  padding-bottom: 100px;
+}
+
+.container .header,
+.container .section,
+.container .footer {
+  max-width: 280px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.logo {
+  flex: 0 0 100px;
+}
+
+.section-class_cards {
+  align-items: unset;
+}
+
+.illustration,
+.card-class_event {
+  width: 100%;
+}
+
+.illustration {
+  margin-top: 60px;
+}
+
+.wrapper-id_main .illustration {
+  margin-top: 40px;
+}
+
+.wrapper-id_main .cta_header,
+.section_header,
+.cta_header {
+  font-size: 2.25rem;
+  line-height: 1.255;
+}
+
+.section_header {
+  margin-bottom: 20px;
+}
+
+.wrapper-id_new .section_body {
+  margin-bottom: 40px;
+}
+
+.wrapper-id_main .cta_header {
+  color: #DB300B;
+}
+
+.cta_header {
+  margin-bottom: 20px;
+}
+
+.cta {
+  width: 100%;
+}
+
+.cta_text {
+  margin-bottom: 40px;
+}
+
+.wrapper-id_main .cta_text {
+  margin-bottom: 40px;
+}
+
+.card {
+  flex: 0 0 280px;
+  margin-right: 20px;
+  padding: 24px 32px 24px 24px;
+}
+
+.card-class_course {
+  padding-bottom: 32px;
+}
+
+.card-class_course,
+.card-class_update {
+  width: 100%;
+}
+
+.card-class_update .card_footer {
+  width: 224px;
+}
+
+.card-class_event {
+  padding-top: 18px;
+  padding-right: 24px;
+}
+
+.card_sidebar {
+  width: 232px;
+}
+
+.icon-id_calendar {
+  padding-top: 6px;
+}
+
+.card_event-date {
+  margin-bottom: 24px;
+}
+
+.card_main {
+  padding-left: 0;
+  margin-top: 0;
+  padding-top: 24px;
+  border-left: none;
+  border-top: 2px solid rgba(110, 125, 154, 0.1)
+}
+
+.card-class_event .button-class_tertiary {
+  align-self: flex-start;
+}
+
+.footer {
+  padding-top: 60px;
+}
+
+.footer_body {
+  margin-bottom: 52px;
+}
+
+.footer .logo {
+  width: 100px;
+  margin-bottom: 32px;
+  margin-right: auto;
+}
+
+.footer .nav a {
+  text-align: left;
+}
+
+.footer .nav a.authors,
+.footer .nav a.support,
+.footer .nav a.faq,
+.footer .nav a.contacts {
+  width: auto;
+  margin-bottom: 32px;
+}
+
+.socials {
+  flex: 0 0 auto;
+  padding-top: 8px;
+}
+
+.icon-class_social {
+  flex: 0 0 40px;
+  margin-right: 32px;
+}

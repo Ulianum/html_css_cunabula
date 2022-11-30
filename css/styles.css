@@ -259,17 +259,26 @@ span.capitalization {
   margin-left: 48px;
 }
 
+.icon-id_burger {
+  display: none;
+}
+
 .section {
-  margin-top: 6rem;
-  margin-bottom: 6rem;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
 }
 
-.section:first-of-type {
-  margin-top: 0;
+.wrapper-id_main .section {
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
-.section:last-of-type {
-  margin-bottom: 12rem;
+.wrapper-id_education-system .section {
+  padding-top: 12rem;
+}
+
+.wrapper-id_upcoming-events .section {
+  padding-bottom: 12rem;
 }
 
 .section-class_cards {
